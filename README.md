@@ -17,8 +17,15 @@
 - `/weather <город>` — показывает погоду в указанном городе
 
 ## Установка и запуск
-сначала скопируй проект через git clone https://github.com/tuxarith/Telegram-Weather-bot.git
-после чего зайди в директорию - cd Telegram-Weather-bot
+сначала скопируй проект через команду:
+```bash
+git clone https://github.com/tuxarith/Telegram-Weather-bot.git
+```
+
+после чего зайди в директорию:
+```bash
+cd Telegram-Weather-bot
+```
 
 ### 1) Установи зависимости
 В корне проекта:
