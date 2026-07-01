@@ -18,7 +18,8 @@
 
 ## Установка и запуск
 сначала скопируй проект через git clone https://github.com/tuxarith/Telegram-Weather-bot.git
-после чего зайди в директорию - cd WeatherBot
+после чего зайди в директорию - cd Telegram-Weather-bot
+
 ### 1) Установи зависимости
 В корне проекта:
 ```bash
@@ -71,6 +72,16 @@ python main.py
  - `/weather` - shows weather in specfiled city
 
 ## Install and Start
+First Copy project:
+```bash
+git clone https://github.com/tuxarith/Telegram-Weather-bot.git
+```
+
+Then open the Directory:
+```bash
+cd Telegram-Weather-bot
+```
+
 ### 1) Install requirements
 
 In root project:
@@ -99,6 +110,7 @@ API = your_api_openweathermap
 You can get api at the link openweathermap.org/api
 
 ### 3) Start the bot
+
 ```bash
 python main.py
 ```
